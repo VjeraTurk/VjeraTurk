@@ -2,7 +2,7 @@
 I am a full-stack developer with over 2.5 years of experience. I have worked on microservices based e-commerce platform, integrating payment services and implementing SEO requirements for multi-market webshops. My technical skills include Angular framework, node. 
 I have experience in DevOps processes (Jenkins, AWS) and Agile development (Jira). My programming languages are TypeScript, Java and R. I have average communication and presentation skills, with a good attitude towards teamwork. I also have an interest in UX design and femtech.
 
-(My CV s summarised by GPT3)
+(My CV as summarised by GPT3)
 <!--
 **VjeraTurk/VjeraTurk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
