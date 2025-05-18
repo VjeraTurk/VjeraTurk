@@ -6,17 +6,17 @@ integrating various **payment** services and implementing **SEO** requirements f
 
 My technical skills include working with Angular framework, Node.js, Bootstrap, MongoDB, SAP...
 
-My programming languages are **TypeScript** and **go**, plus rusty Java and R.     
+My programming languages are **TypeScript** and **Golang**, plus rusty Java and R.     
 
-I have experience in DevOps processes (Jenkins, AWS, github actions) and Agile development (Jira).
+I have experience in DevOps processes (Jenkins, AWS, GitHub actions) and Agile development (Jira).
 
-I have average communication and presentation skills, a good attitude towards **teamwork**, and experience **onbording** Junior developers.   
-I also have an interest in **UX** design, **DX** and femtech.
+I have average communication and presentation skills, a good attitude towards **teamwork**, and experience **onboarding** Junior developers.     
+I am also interested in **UX** design, **DX** and femtech.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a decentralised network system for the Travel Industry for [Camino](https://camino.network/)  
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning Golang
 <!--  👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with SEO -->
 - 💬 Ask me about femtech
