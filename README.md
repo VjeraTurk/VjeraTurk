@@ -2,7 +2,7 @@
 
 I am a full-stack developer with over 5 years of experience.  
 I have worked with and on a microservices-based **e-commerce** platform developed and maintained by [Juice](https://www.juice.com.hr/),  
-integrating various **payment** services and implementing **SEO** requirements for **multi-market webshops**.  
+integrating various **payment** services, implementing **SEO** requirements for **multi-market webshops**, ERP integration, **CRM** and **CMS**.  
 
 My technical skills include working with **Angular** framework, **Node.js**, Bootstrap, **MongoDB**, SAP...
 
