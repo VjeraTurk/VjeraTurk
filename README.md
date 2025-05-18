@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a decentralised network system for the Travel Industry for [Camino](https://camino.network/)  
 - 🌱 I’m currently learning golang
-<!--
- - 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with SEO
- --> 
+<!--  👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with SEO -->
 - 💬 Ask me about femtech
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vjera-turk/)
 - ⚡ Fun fact: I love snowboarding and flowmotion dancing 🏂
