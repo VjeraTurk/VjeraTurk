@@ -4,13 +4,13 @@ I am a full-stack developer with over 5 years of experience.
 I have worked with and on a microservices-based **e-commerce** platform developed and maintained by [Juice](https://www.juice.com.hr/),  
 integrating various **payment** services and implementing **SEO** requirements for **multi-market webshops**.  
 
-My technical skills include working with Angular framework, Node.js, Bootstrap, MongoDB, SAP...
+My technical skills include working with **Angular** framework, **Node.js**, Bootstrap, **MongoDB**, SAP...
 
 My programming languages are **TypeScript** and **Golang**, plus rusty Java and R.     
 
 I have experience in DevOps processes (Jenkins, AWS, GitHub actions) and Agile development (Jira).
 
-I have average communication and presentation skills, a good attitude towards **teamwork**, and experience **onboarding** Junior developers.     
+I have average communication and presentation skills, a good attitude toward **teamwork**, and experience **onboarding** Junior developers.     
 I am also interested in **UX** design, **DX** and femtech.
 
 Here are some ideas to get you started:
