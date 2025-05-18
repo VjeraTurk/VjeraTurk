@@ -10,10 +10,9 @@ My programming languages are **TypeScript** and **Golang**, plus rusty Java and 
 
 I have experience in DevOps processes (Jenkins, AWS, GitHub actions) and Agile development (Jira).
 
-I have average communication and presentation skills, a good attitude toward **teamwork**, and experience **onboarding** Junior developers.     
-I am also interested in **UX** design, **DX** and femtech.
+I have average communication and presentation skills, a good attitude toward **teamwork**, and experience **onboarding** Junior developers. 
 
-Here are some ideas to get you started:
+I am also interested in **UX** design, **DX** and femtech.
 
 - 🔭 I’m currently working on a decentralised network system for the Travel Industry for [Camino](https://camino.network/)  
 - 🌱 I’m currently learning Golang
