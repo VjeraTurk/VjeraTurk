@@ -5,11 +5,11 @@ I have worked with and on a microservices-based **e-commerce** platform develope
 integrating various **payment** services and implementing **SEO** requirements for **multi-market webshops**.  
 
 My technical skills include working with Angular framework, Node.js, Bootstrap, MongoDB, SAP...
-    
-I have experience in DevOps processes (Jenkins, AWS) and Agile development (Jira).
- 
+
 My programming languages are **TypeScript** and **go**, plus rusty Java and R.     
-  
+
+I have experience in DevOps processes (Jenkins, AWS, github actions) and Agile development (Jira).
+
 I have average communication and presentation skills, a good attitude towards **teamwork**, and experience **onbording** Junior developers.   
 I also have an interest in **UX** design, **DX** and femtech.
 
