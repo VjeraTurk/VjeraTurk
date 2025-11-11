@@ -16,7 +16,7 @@ I have average communication and presentation skills, a good attitude toward **t
 I am also interested in **UX** design, **DX** and femtech.
 
 - 🔭 I’m currently working on a Web 3.0 decentralised network system for the Travel Industry for [Camino](https://camino.network/)  
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning React
 <!--  👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with SEO -->
 - 💬 Ask me about femtech
